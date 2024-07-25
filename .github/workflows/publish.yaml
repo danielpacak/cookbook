@@ -1,0 +1,40 @@
+---
+# This is a manually triggered workflow to build and publish the MkDocs from the
+# specified Git revision to GitHub pages on https://danielpacak.github.io/cookbook.
+name: Publish documentation
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: The branch, tag or SHA to deploy, e.g. v0.0.1
+        required: true
+        default: main
+
+# Disable permissions granted to the GITHUB_TOKEN for all the available scopes.
+permissions: {}
+
+jobs:
+  deploy:
+    name: Deploy documentation
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
+        with:
+          ref: ${{ github.event.inputs.ref }}
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/setup-python@82c7e631bb3cdc910f68e0081d67478d79c6982d # v5.1.0
+        with:
+          python-version: 3.x
+      - run: |
+          pip install mkdocs-material
+          pip install mkdocs-macros-plugin
+      - run: |
+          git config user.name "Daniel Pacak"
+          git config user.email "1322923+danielpacak@users.noreply.github.com"
+      - run: |
+          mkdocs gh-deploy --force

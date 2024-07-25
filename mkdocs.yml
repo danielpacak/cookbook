@@ -1,5 +1,5 @@
 site_name: Książka kucharska
 site_description: Książka objaśniająca sposób przygotowania poszczególnych potraw.
-site_url: https://mydomain.org/cookbook
+site_url: https://danielpacak.github.io/cookbook
 theme:
   name: material
