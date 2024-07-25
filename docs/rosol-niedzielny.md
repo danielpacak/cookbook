@@ -1,6 +1,6 @@
 # Rosół niedzielny
 
-# Składniki
+## Składniki
 
 * 5-6 litrow zimnej wody
 * 6 marchewek
@@ -31,6 +31,8 @@
 5. Po zagotowaniu zmniejsz ogień i gotuj rosół przez ok. 2-3 godziny (zupa
    powinna "pyrkać" na małym ogniu).
 
+    ![Pyrkotanie](rosol-pyrkocze.png)
+
 ## Uwagi
 
 Nastawiając rosół pamietaj, że **mięso i warzywa zalewamy zawsze zimną wodą**.
@@ -40,8 +42,8 @@ przeszły do wywaru i nie zostały "zamknięte" w warzywach.
 Jeśli po zagotowaniu rosołu zmniejszysz moc kuchni i będzie "pyrkał" na małym ogniu,
 **nie bedzie potrzeby szumowania**. Z doświadczenia mogę powiedzieć ponadto, że
 rosół nastawiony na dobrej jakości kurze na pewno szumowania nie wymaga. Dodatek
-wołowiny moze nasilić wytrącanie się szumowin. Jednak moje obserwacje są takie,
+wołowiny może nasilić wytrącanie się szumowin. Jednak moje obserwacje są takie,
 że przy trzygodzinnym "pyrkaniu" wywar ładnie się klaruje.
 
 Nastawiając rosół na drobiu, 2-3 godziny gotowania będą wystarczające.
-Natomiast wołowina potrzebuje więcej czasu, nawet 5. godzin "pyrkania".
+Natomiast wołowina potrzebuje więcej czasu, nawet 5 godzin "pyrkania".

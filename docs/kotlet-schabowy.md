@@ -26,13 +26,13 @@
   osusz ręcznikiem papierowym.
 * Następnie panieruj klasycznie: mąka, rozmącone jajo i bułka tarta.
 
-    ![alt text](kotlet-schabowy-panierowanie.png)
+    ![Panierowanie](kotlet-schabowy-panierowanie.png)
 
 * Smaż na oleju lub smalcu na średnim ogniu po 3-4 minuty z każdej. Przed
   podaniem osącz z nadmiaru tłuszczu na ręczniku papierowym. Podawaj z ulubionymi
   dodatkami, u mnie ziemniaki z koperkiem i mizerią.
 
-    ![alt text](kotlet-schabowy-smazenie.png)
+    ![Smażenie](kotlet-schabowy-smazenie.png)
 
 ## Referencje
 
