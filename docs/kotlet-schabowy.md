@@ -14,7 +14,7 @@
 * 1 szklanka bułki tartej
 * olej roślinny lub np. smalec do smażenia
 
-## Wykonanie
+## Przygotowanie
 
 * Mięso podziel na cztery równe kotlety. Rozklep tłuczkiem do mięsa przez folię
   spożywczą. Grubość zależy o indywidualnych preferencji, osobiście nie rozbijam
@@ -34,6 +34,6 @@
 
     ![Smażenie](kotlet-schabowy-smazenie.png)
 
-## Referencje
+## Uwagi
 
 1. [Kuroń J., Perfekcyjny kotlet schabowy, kuron.com.pl](https://kuron.com.pl/artykuly/przepisy/dania-glowne/perfekcyjny-kotlet-schabowy/)

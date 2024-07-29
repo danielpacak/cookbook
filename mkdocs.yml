@@ -3,3 +3,5 @@ site_description: Książka objaśniająca sposób przygotowania poszczególnych
 site_url: https://danielpacak.github.io/cookbook
 theme:
   name: material
+markdown_extensions:
+  - footnotes

@@ -21,7 +21,7 @@
   porcje, ale zdarza mi sie także używać porcii rosołowej); jeśli wolisz
   mocniejszy smak - dodaj kawalek wołowiny, gęsi, indyka, perlicy, królika
 
-## Wykonanie
+## Przygotowanie
 
 1. Do dużego garnka włóż umyte i podzielone mięso, obrane i prekrojone na pół
    warzywa.
