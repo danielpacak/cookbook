@@ -30,7 +30,7 @@ Prosty i pyszny makaron z cukinią i kurczakiem w śmietankowym sosie curry.
 6. Dodać śmietankę, wymieszać i zagotować. Dodać ugotowany makaron, wymieszać i
    podgrzać. Posypać posiekaną bazylią i podawać.
 
-![](./makaron-z-cukinia-i-kurczakiem-w-sosie-curry.png)
+    ![](./makaron-z-cukinia-i-kurczakiem-w-sosie-curry.png)
 
 ## Uwagi
 

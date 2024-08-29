@@ -3,5 +3,16 @@ site_description: Książka objaśniająca sposób przygotowania poszczególnych
 site_url: https://danielpacak.github.io/cookbook
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
 markdown_extensions:
   - footnotes
+nav:
+  - Przepisy:
+      - Kotlet schabowy: przepisy/kotlet-schabowy.md
+      - Krewetki z patelni z czosnkiem, natką i chili: przepisy/krewetki-z-patelni-z-czosnkiem-natka-i-chili.md
+      - Makaron z cukinią i kurczakiem w sosie curry: przepisy/makaron-z-cukinia-i-kurczakiem-w-sosie-curry.md
+      - Rosół niedzielny: przepisy/rosol-niedzielny.md
+      - Zapiekanka makaronowa z kurczakiem i warzywami: przepisy/zapiekanka-makaronowa-z-kurczakiem-i-warzywami.md
+  - Przyprawy: przyprawy.md

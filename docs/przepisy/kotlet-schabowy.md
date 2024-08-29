@@ -2,17 +2,17 @@
 
 ## Składniki
 
-* 600 g schabu środkowego
-* 500 ml mleka
-* 2 ząbki czosnku
-* 1 cebula
-* 3 liście laurowe
-* 3 ziarna ziela angielskiego
-* 1,5 łyżeczki soli
-* 0,5 łyżeczki pieprzu czarnego
-* 1 szklanka mąki pszennej
-* 1 szklanka bułki tartej
-* olej roślinny lub np. smalec do smażenia
+* Schab środkowy - 600 g
+* Mleko - 500 ml
+* Czosnek - 2 ząbki
+* Cebula - 1 szt.
+* Liście laurowe - 3 szt.
+* Ziele angielskiego - 3 ziarna
+* Sól - 1,5 łyżeczki
+* Pieprz czarny - 1/2 łyżeczki
+* Mąka pszenna - 1 szklanka
+* Bułka tarta - 1 szklanka
+* Olej roślinny lub np. smalec do smażenia
 
 ## Przygotowanie
 
