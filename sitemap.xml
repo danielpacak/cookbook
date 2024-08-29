@@ -2,22 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://danielpacak.github.io/cookbook/</loc>
-         <lastmod>2024-07-29</lastmod>
+         <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://danielpacak.github.io/cookbook/kotlet-schabowy/</loc>
-         <lastmod>2024-07-29</lastmod>
+         <lastmod>2024-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://danielpacak.github.io/cookbook/makaron-z-cukinia-i-kurczakiem-w-sosie-curry/</loc>
+         <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://danielpacak.github.io/cookbook/rosol-niedzielny/</loc>
-         <lastmod>2024-07-29</lastmod>
+         <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://danielpacak.github.io/cookbook/zapiekanka-makaronowa-z-kurczakiem-i-warzywami/</loc>
-         <lastmod>2024-07-29</lastmod>
+         <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
