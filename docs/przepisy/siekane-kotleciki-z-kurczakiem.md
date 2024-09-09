@@ -2,7 +2,7 @@
 
 Nazywam je równiez kotletami turystycznymi, bo zazwyczaj zabieramy je w
 pudełkach na działkę. Zwłaszcza że naprawdę świetnie smakują na zimno.
-Kotlety smakują świetnie z sosem tzatziki.
+Kotlety smakują świetnie z [sosem tzatziki](./../sosy/tzatziki.md).
 
 ## Składniki
 
