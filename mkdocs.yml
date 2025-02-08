@@ -11,6 +11,7 @@ markdown_extensions:
 nav:
   - Przepisy:
       - Kotlet schabowy: przepisy/kotlet-schabowy.md
+      - Kotlet z piersi kurczaka: przepisy/kotlet-z-piersi-kurczaka.md
       - Krewetki z patelni z czosnkiem, natką i chili: przepisy/krewetki-z-patelni-z-czosnkiem-natka-i-chili.md
       - Kurczak w sosie curry: przepisy/kurczak-w-sosie-curry.md
       - Makaron ryżowy z indykiem i warzywami: przepisy/makaron-ryzowy-z-indykiem-i-warzywami.md
